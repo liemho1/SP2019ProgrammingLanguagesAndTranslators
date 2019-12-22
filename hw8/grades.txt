@@ -1,0 +1,6 @@
+duckd, incorrect
+horsemanb, correct HARD-CODED OUTPUT!
+leopoldj, correct
+pricec, incorrect
+simpsonh, correct HARD-CODED OUTPUT!
+voldemortl, correct
